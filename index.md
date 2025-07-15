@@ -1,4 +1,9 @@
+![SENAC](https://api.senacrs.com.br/bff/site-senac/v1/file/31167911abfcbf735110ccad91ae5c23a2b32e.png)
+
 # Projeto de Curso: Revisão de Matemática Básica para Adultos
+
+- autor: Gustavo Razzera
+- data: 15/07/2025
 
 ## Apresentação
 
